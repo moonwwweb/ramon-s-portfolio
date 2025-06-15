@@ -343,6 +343,26 @@ p {
   .footer-container > p {
     display: none;
   }
+  #shortIntro {
+    margin: 5px 20px;
+    font-size: 1.2em;
+  }
+  .about-me {
+    padding: 20px 20px;
+  }
+  #projects > p {
+    padding: 0 20px;
+  }
+  #projects > h2 {
+    padding: 0 20px;
+  }
+  #skills > p,
+  #skillH2 {
+    padding: 0 20px;
+  }
+  .skill-list {
+    padding: 0 20px;
+  }
 }
 
 /* Hamburger button styles */
