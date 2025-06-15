@@ -363,6 +363,12 @@ p {
   .skill-list {
     padding: 0 20px;
   }
+  #projectGif {
+    width: 100%;
+    height: auto;
+    margin-right: 0;
+    padding-right: 0;
+  }
 }
 
 /* Hamburger button styles */
